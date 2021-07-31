@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+
+.i{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+
+}
+
+.ii{
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+
+
+}
+
+.iii{
+    background-color: deeppink;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+
+}

@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+.parent{
+    background-color: dimgray; 
+    width: 450px;
+    height: 450px;
+    position: relative;
+}
+
+.child{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    right: 0px;
+}
+
+.first{
+    background-color: orangered;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 0;
+    left: 150px;
+}
+
+.second{
+    background-color: goldenrod;
+    width: 150px;
+    height: 150px;
+    position: absolute;   
+    top: 0;
+}
